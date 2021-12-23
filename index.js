@@ -28,8 +28,8 @@
 // var x= "is a student"
 // var y= 26
 
-// console.log("Shakib" + x);
-// console.log('I am '+ y );
+// console.log("Shakib" + x); // Shakib is a student
+// console.log('I am '+ y ); // I am 26
 
 //=================================================
 
